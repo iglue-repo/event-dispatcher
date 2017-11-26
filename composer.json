@@ -1,5 +1,8 @@
 {
-    "name": "symfony/event-dispatcher",
+    "name": "symfony@iglue/event-dispatcher",
+    "replace": {
+        "symfony/event-dispatcher": "v3.2.13"
+    },
     "type": "library",
     "description": "Symfony EventDispatcher Component",
     "keywords": [],
